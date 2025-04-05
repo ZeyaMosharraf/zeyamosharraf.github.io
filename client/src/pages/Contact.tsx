@@ -1,0 +1,17 @@
+import { useEffect } from "react";
+import ContactSection from "@/components/sections/ContactSection";
+
+const Contact = () => {
+  // Scroll to top on component mount
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
+  return (
+    <div className="pt-16">
+      <ContactSection />
+    </div>
+  );
+};
+
+export default Contact;
