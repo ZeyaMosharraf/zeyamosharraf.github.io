@@ -1,7 +1,17 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url=/" />
+    <meta charset="UTF-8" />
+    <title>Redirecting...</title>
+    <script type="text/javascript">
+      const path = window.location.pathname;
+      const search = window.location.search;
+      const hash = window.location.hash;
+      const newUrl = `index.html?redirect=${path}${search}${hash}`;
+      window.location.replace(newUrl);
+    </script>
   </head>
-  <body></body>
+  <body>
+    <p>Redirecting...</p>
+  </body>
 </html>
