@@ -2,13 +2,16 @@
 <html>
   <head>
     <meta charset="UTF-8" />
-    <title>Redirecting…</title>
-    <script>
-      const redirect = location.pathname + location.search + location.hash;
-      location.replace("/index.html?redirect=" + encodeURIComponent(redirect));
+    <title>Redirecting...</title>
+    <script type="text/javascript">
+      const path = window.location.pathname;
+      const search = window.location.search;
+      const hash = window.location.hash;
+      const newUrl = index.html?redirect=${path}${search}${hash};
+      window.location.replace(newUrl);
     </script>
   </head>
   <body>
-    <p>Redirecting…</p>
+    <p>Redirecting...</p>
   </body>
 </html>
