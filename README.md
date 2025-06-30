@@ -3,7 +3,6 @@
 Welcome to my personal portfolio!  
 This site showcases my data analyst journey, real-world projects, dashboards, case studies, certifications, and blogs — all crafted with a focus on performance, design, and accessibility.
 
-![Portfolio Preview](./assets/og-image.png)
 
 ## 🚀 Features
 
