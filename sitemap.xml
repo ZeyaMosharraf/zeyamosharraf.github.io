@@ -47,13 +47,7 @@
     <loc>https://zeyamosharraf.github.io/project/zomato-restaurant-analysis</loc>
   </url>
   <url>
-    <loc>https://zeyamosharraf.github.io/project/shop-customer-analysis</loc>
-  </url>
-  <url>
     <loc>https://zeyamosharraf.github.io/project/ecommerce-data-analysis</loc>
-  </url>
-  <url>
-    <loc>https://zeyamosharraf.github.io/project/credit-card-fraud-detection</loc>
   </url>
   <url>
     <loc>https://zeyamosharraf.github.io/blog/future-predictive-analytics</loc>
@@ -114,11 +108,5 @@
   </url>
   <url>
     <loc>https://zeyamosharraf.github.io/case-study/facebook-ad-campaign-rto-roi-optimization</loc>
-  </url>
-  <url>
-    <loc>https://zeyamosharraf.github.io/case-study/debugging-optimizing-stored-procedures</loc>
-  </url>
-  <url>
-    <loc>https://zeyamosharraf.github.io/case-study/stored-procedure-optimization-business-rule-validation</loc>
   </url>
 </urlset>
